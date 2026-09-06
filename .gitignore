@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+*.log
+.env
+.env.*
+!.env.example
+key.txt
+*.pem
+*.key
+*.pfx
+*.p12
+.runtime/
+_retiehe-smoke-test/
+*.tsbuildinfo
